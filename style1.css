@@ -1,0 +1,37 @@
+
+
+ #navpart{background-color: black;}
+ #top_details_first{  background-image: linear-gradient(lightgoldenrodyellow,whitesmoke); }
+#top_details_second { background-image: linear-gradient(whitesmoke,peachpuff,whitesmoke); }
+ #top_details_third{  background-image: linear-gradient(whitesmoke,lightgoldenrodyellow,whitesmoke); }
+#top_details_fourth { background-image: linear-gradient(whitesmoke,peachpuff,whitesmoke); }
+#top_details_fifth { background-image: linear-gradient(whitesmoke,gray); }
+#top_details_sixth { background-image: linear-gradient(whitesmoke,peachpuff,whitesmoke); }
+ #top_details_seven{  background-image: linear-gradient(whitesmoke,lightgoldenrodyellow,whitesmoke); }
+
+#topimage{
+    opacity: 0.1 px;
+}
+#top_details_1>img{ height: 90% ; width: 50%;
+
+}
+#top_details_11>img{ height: 90% ; width: 50%;
+
+}
+#top_details_111>img{ height: 90% ; width: 50%;
+
+}
+#top_details_1111>img{ height: 90% ; width: 50%;
+
+}
+#top_details_11111>img{ height: 90% ; width: 50%;
+
+}
+#top_details_111111>img{ height: 90% ; width: 50%;
+
+}
+#top_details_1111111>img{ height: 90% ; width: 50%;
+
+}
+#about{ background-color:lightsteelblue; } 
+ #footer{ background-color:black;  }
